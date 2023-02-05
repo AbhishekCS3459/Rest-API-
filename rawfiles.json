@@ -1,0 +1,32 @@
+[
+    {
+        "name":"iPhone",
+        "price":231,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"iPhone2",
+        "price":211,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"S22",
+        "price":22341,
+        "feature":true,
+        "company":"Samsung"
+    },
+    {
+        "name":"iPhone4",
+        "price":235,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"S5",
+        "price":239,
+        "feature":true,
+        "company":"Samsung"
+    }
+]
